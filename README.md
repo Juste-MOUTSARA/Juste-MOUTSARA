@@ -1,4 +1,4 @@
-# Hi there 👋 Je suis **MOUTSARA-OYANKE Juste Niverlin**
+# Hi there 👋 I'm  **MOUTSARA-OYANKE Juste Niverlin**
 
  Content de vous voir ici
 
@@ -7,7 +7,8 @@
  ##A propos 😇 de moi
 
  Bienvenue sur une partie de ma vie sur internet, je suis un apprentit Développeur et j'aspire à faire carrière dans le développement web en travaillant sur des projets à fort impact au Congo et dans le monde entier.
- de
+
+ 
  N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche la technologie ou pour dire bonjour! Façonnons ensemble l'avenir de la tech.
 
  ✅✅**Tech stack**:
