@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 Je suis **MOUTSARA-OYANKE Juste Niverlin**
 
-<!--
-**Juste-MOUTSARA/Juste-MOUTSARA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Content de vous voir ici
 
-Here are some ideas to get you started:
+ Développeur web former dans le cadre du projet D_ClIC de l'OIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##A propos 😎 de moi
+
+ Bienvenue sur une partie de ma vie sur internet, je suis un apprentit Développeur et j'aspire à faire carrière dans le développement web en travaillant sur des projets à fort impact au Congo et dans le monde entier.
+ de
+ N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche la technologie ou pour dire bonjour! Façonnons ensemble l'avenir de la tech.
+
+ ✅✅** Tech stack:**
+ - ** Langages**: HTML, CSS , Javascript, SQL
+ - ** Frameworks & outils **: Tailwind CSS , React
+ - **Base de données**: MySQL
+ - **Versioning**: Git & Github
+   ## 📞 Me contacter:
+  📧 **Email**: justemoutsara@gmail.com
+   
+ 
