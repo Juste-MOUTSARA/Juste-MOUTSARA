@@ -10,9 +10,9 @@
  de
  N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche la technologie ou pour dire bonjour! Façonnons ensemble l'avenir de la tech.
 
- ✅✅** Tech stack:**
- - ** Langages**: HTML, CSS , Javascript, SQL
- - ** Frameworks & outils **: Tailwind CSS , React
+ ✅✅**Tech stack**:
+ - **Langages**: HTML, CSS , Javascript, SQL
+ - **Frameworks & outils**: Tailwind CSS , React
  - **Base de données**: MySQL
  - **Versioning**: Git & Github
    ## 📞 Me contacter:
