@@ -4,7 +4,7 @@
 
  Développeur web former dans le cadre du projet D_ClIC de l'OIF
 
- ##A propos 😎 de moi
+ ##A propos 😇 de moi
 
  Bienvenue sur une partie de ma vie sur internet, je suis un apprentit Développeur et j'aspire à faire carrière dans le développement web en travaillant sur des projets à fort impact au Congo et dans le monde entier.
  de
