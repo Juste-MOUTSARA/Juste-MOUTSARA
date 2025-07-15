@@ -13,7 +13,7 @@
 
  ✅✅**Tech stack**:
  - **Langages**: HTML, CSS , Javascript, SQL
- - **Frameworks & outils**: Tailwind CSS , React
+ - **Frameworks & outils**: Tailwind CSS
  - **Base de données**: MySQL
  - **Versioning**: Git & Github
    ## 📞 Me contacter:
